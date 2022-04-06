@@ -7,6 +7,8 @@ agreement with these data, the FceRI+ hematopoietic progenitors in peripheral bl
 A conda environment .yml file is available under /init to reproduce the analysis environment.
 
 2 .html files in /Processing describe the processing of the data available on GEO (), for each respective dataset, to match the analysis described in the manuscript. Use the following links to see a rendered version of the files:
-https://htmlpreview.github.io/?https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/BuffyC1_processing.html
-https://htmlpreview.github.io/?https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/Buffy210208_processing.html
+
+BuffyC1: https://htmlpreview.github.io/?https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/BuffyC1_processing.html
+
+Buffy210208: https://htmlpreview.github.io/?https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/Buffy210208_processing.html
 
