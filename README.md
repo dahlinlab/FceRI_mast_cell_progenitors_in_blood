@@ -1,6 +1,6 @@
 # FceRI_mast_cell_progenitors_in_blood
 
-This repo contains information pertaining to the publication "Single-cell transcriptomics reveals the identity and regulators of human mast cell progenitors", (include link)
+This repo contains information pertaining to the publication "Single-cell transcriptomics reveals the identity and regulators of human mast cell progenitors", https://doi.org/10.1182/bloodadvances.2022006969
 
 In this publication we explored the presence of the FceRI receptor during mast cell differentiation. Through the generation of 2 single-cell transcriptomic datasets we identified a population of FceRI positive mast cell progenitors, and identified cytokines that modulate these progenitors.
 
