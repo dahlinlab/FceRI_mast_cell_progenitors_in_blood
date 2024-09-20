@@ -4,7 +4,7 @@ This repo contains information pertaining to the publication "Single-cell transc
 
 In this publication we explored the presence of the FceRI receptor during mast cell differentiation. Through the generation of 2 single-cell transcriptomic datasets we identified a population of FceRI positive mast cell progenitors, and identified cytokines that modulate these progenitors.
 
-An interactive web app to view the data is available at http://dahlinlab.cmm.se
+An interactive web app to view the data is available at http://dahlinlab.cmm.se. The annotated .h5ad files are also available to download through the web app.
 
 A conda environment .yml file is available under /init to reproduce the analysis environment.
 
