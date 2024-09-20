@@ -14,3 +14,4 @@ Dataset1_Sample1_P15054_filteredmatrix: https://github.com/joakimdahlin/FceRI_ma
 
 Dataset2_Sample2_P20409_1003-4_filteredmatrix: https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/Buffy210208_processing.ipynb
 
+The raw count matrix files are available through NCBI GEO via the following link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184351.
