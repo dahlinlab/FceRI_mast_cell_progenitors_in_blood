@@ -10,8 +10,8 @@ A conda environment .yml file is available under /init to reproduce the analysis
 
 2 .ipynb files in /Processing describe the processing of the data available on GEO:GSE184351, for each respective dataset, to match the analysis described in the manuscript:
 
-Dataset1_Sample1_P15054_filteredmatrix: https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/BuffyC1_processing.ipynb
+Dataset1_Sample1_P15054_filteredmatrix: https://github.com/dahlinlab/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/BuffyC1_processing.ipynb
 
-Dataset2_Sample2_P20409_1003-4_filteredmatrix: https://github.com/joakimdahlin/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/Buffy210208_processing.ipynb
+Dataset2_Sample2_P20409_1003-4_filteredmatrix: https://github.com/dahlinlab/FceRI_mast_cell_progenitors_in_blood/blob/main/Processing/Buffy210208_processing.ipynb
 
 The raw count matrix files are available through NCBI GEO via the following link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE184351.
